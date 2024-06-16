@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PlaylistGeneratorDeploy/static/css/main.95cfa0b7.css",
-    "main.js": "/PlaylistGeneratorDeploy/static/js/main.e3516717.js",
-    "index.html": "/PlaylistGeneratorDeploy/index.html",
-    "main.95cfa0b7.css.map": "/PlaylistGeneratorDeploy/static/css/main.95cfa0b7.css.map",
-    "main.e3516717.js.map": "/PlaylistGeneratorDeploy/static/js/main.e3516717.js.map"
+    "main.css": "/static/css/main.95cfa0b7.css",
+    "main.js": "/static/js/main.d87f7be7.js",
+    "index.html": "/index.html",
+    "main.95cfa0b7.css.map": "/static/css/main.95cfa0b7.css.map",
+    "main.d87f7be7.js.map": "/static/js/main.d87f7be7.js.map"
   },
   "entrypoints": [
     "static/css/main.95cfa0b7.css",
-    "static/js/main.e3516717.js"
+    "static/js/main.d87f7be7.js"
   ]
 }
